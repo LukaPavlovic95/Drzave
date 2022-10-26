@@ -1,0 +1,28 @@
+{
+  "entities": [
+    {
+      "puniNaziv": "Hrvatska",
+      "nazivEng": "Cro",
+      "puniNazivEng": "Croatia",
+      "napomena": "Naša država",
+      "id": 1,
+      "naziv": "Hrv"
+    },
+    {
+      "puniNaziv": "Španjolska",
+      "nazivEng": "Spa",
+      "puniNazivEng": "Spain",
+      "napomena": "Topla država",
+      "id": 2,
+      "naziv": "Špa"
+    },
+    {
+      "puniNaziv": "Mađarska",
+      "nazivEng": "Hun",
+      "puniNazivEng": "Hungary",
+      "napomena": "Zelena država",
+      "id": 3,
+      "naziv": "Mađ"
+    }
+  ]
+}
