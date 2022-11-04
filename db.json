@@ -1,26 +1,26 @@
 {
   "entities": [
     {
-      "puniNaziv": "Hrvatska",
+      "puniNaziv": "Republika Hrvatska",
       "nazivEng": "Cro",
-      "puniNazivEng": "Croatia",
-      "napomena": "Naša država",
+      "puniNazivEng": "Republic of Croatia",
+      "napomena": "napomena1",
       "id": 1,
       "naziv": "Hrv"
     },
     {
-      "puniNaziv": "Španjolska",
-      "nazivEng": "Spa",
-      "puniNazivEng": "Spain",
-      "napomena": "Topla država",
+      "puniNaziv": "Ukrajina",
+      "nazivEng": "Ua",
+      "puniNazivEng": "Ukraine",
+      "napomena": "napomena2",
       "id": 2,
-      "naziv": "Špa"
+      "naziv": "Ukr"
     },
     {
       "puniNaziv": "Mađarska",
       "nazivEng": "Hun",
       "puniNazivEng": "Hungary",
-      "napomena": "Zelena država",
+      "napomena": "napomena3",
       "id": 3,
       "naziv": "Mađ"
     }
